@@ -12,6 +12,7 @@
     "animate.css": "^3.7.2",
     "aos": "^2.3.4",
     "bootstrap": "^4.4.1",
+    "jquery-parallax.js": "^1.5.0",
     "vegas": "^2.4.4",
     "wow.js": "^1.2.2"
   }
